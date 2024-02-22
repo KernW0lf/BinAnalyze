@@ -26,7 +26,7 @@ readelf (Requires installation, typically available in GNU Binutils)
 ## Installation:
 ### Clone the repository:
 ```sh
-git clone https://github.com/your_username/BINALYZE.git
+git clone https://github.com/KernW0lf/BinAnalyze.git
 ```
 
 ### Install dependencies:
