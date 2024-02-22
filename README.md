@@ -3,8 +3,7 @@ BinAnalyze is a PyQt5-based application for analyzing binary files using various
 
 ## Features:
 ### Upload Functionality:
-
-    Users can upload binary files through a file dialog or by dragging and dropping files onto the application window.
+Users can upload binary files through a file dialog or by dragging and dropping files onto the application window.
 
 ### Analysis Options:
 
