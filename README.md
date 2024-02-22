@@ -16,11 +16,10 @@ BinAnalyze is a PyQt5-based application for analyzing binary files using various
         Hexdump: Provides a hexdump of the binary file.
 
 ## Dependencies:
-*     PyQt5
-*     pyfiglet
-*     hexdump (Python package)
-*     readelf (Requires installation, typically available in GNU Binutils)
-*     
+>    PyQt5
+>     pyfiglet
+>     hexdump (Python package)
+>     readelf (Requires installation, typically available in GNU Binutils)
 
 ## Installation:
 ### Clone the repository:
